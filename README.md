@@ -25,7 +25,7 @@ TypeORM ✔
 
   3º Passo: Rodar o comando `yarn typeorm migration:run` ou `npm run typeorm migration:run` para que as migrações criem os as tabelas no banco de dados
 
-- 4º Passo: rodar `yarn dev:server` ou `npm run dev:server` para subir o servidor
+- 4º Passo: rodar `yarn dev:server` ou `npm dev:server` para subir o servidor
 
 
 ## Endpoints
